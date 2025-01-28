@@ -48,4 +48,6 @@ print("the total amount of items to pay is  Rs " + str(order_total))
 
 print("thanks for visiting.")
 print("we would love to welcome you again.")
-print("Saunf-cheeni kha lo piliz.")
+
+
+
